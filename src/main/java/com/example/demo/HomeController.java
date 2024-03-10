@@ -9,7 +9,7 @@ public class HomeController {
 
     @GetMapping("/welcome")
     public String getMethodName() {
-        return "welcome amit";
+        return "welcome amit v1.0";
     }
 
 }
